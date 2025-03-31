@@ -1,6 +1,6 @@
-# Data Flow: Centralized Dashboard with Power BI
+# Centralised Dashboard with Power BI
 
-This data flow was designed and built to connect multiple data sources into a centralized **Power BI** dashboard. The goal was to create a streamlined and automated reporting system that enables the team to **monitor business performance in near real-time**.
+It was designed and built to connect multiple data sources into a centralized **Power BI** dashboard. The goal was to create a streamlined and automated reporting system that enables the team to **monitor business performance**.
 
 ---
 
@@ -41,5 +41,5 @@ The data pipeline includes the following stages:
 ---
 
 ## Notes
-- Built entirely by me (Jay) to improve visibility and reduce manual reporting tasks for the business intelligence team.
+- Built entirely by me to improve visibility and reduce manual reporting tasks for the business intelligence team.
 - Designed to scale as new brands and data sources are onboarded.
