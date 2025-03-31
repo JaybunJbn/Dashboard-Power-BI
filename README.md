@@ -40,11 +40,6 @@ The data pipeline includes the following stages:
 
 ---
 
-## Diagram Preview
-
-
----
-
 ## Notes
 - Built entirely by me (Jay) to improve visibility and reduce manual reporting tasks for the business intelligence team.
 - Designed to scale as new brands and data sources are onboarded.
